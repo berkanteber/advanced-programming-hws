@@ -1,0 +1,16 @@
+Rain_Man 	10
+The_Dark_Knight  8
+Pulp_Fiction       8
+Man_on_the_Moon   8
+Apocalypse_Now 10
+The_Dark_Knight 9
+Chinatown 12
+Scarface 9
+The_Usual_Suspects -1
+Man_on_the_Moon 7
+Se7en  27
+Mr._Brooks 6
+Chinatown 9
+Inception 0
+Forrest_Gump 23
+The_Big_Lebowski 10
